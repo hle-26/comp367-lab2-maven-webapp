@@ -18,6 +18,6 @@
 </head>
 <body>
     <h1><%= greeting %>, Henry, Welcome to COMP367</h1>
-    <%-- webhook success 2 --%>
+    <%-- webhook success 3 --%>
 </body>
 </html>
